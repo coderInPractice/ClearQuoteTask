@@ -1,6 +1,6 @@
 # Object Detection using ML Kit
-Detect object in still image using ML Kit Object Detection API.
+Detect objects in still images using ML Kit [Object Detection API](https://developers.google.com/ml-kit/vision/object-detection/android).
 
-- Recongnise object and draw rect
+- Recognise objects and draw rect
 - Label the object
-- Show label confidence in percentage
+- Show label confidence in the percentage
